@@ -1,12 +1,12 @@
 # Benthic_stoichiometry
-Data associated with benthic organic matter stoichiometry project published in Limnology and Oceanography
+This DATSETNAMEreadme.txt file was generated on 2023-05-09 by Phillip Bumpers
 
 
 GENERAL INFORMATION
 
 Title of Dataset: Experimental nutrient enrichment and benthic stoichiometry
 
-Author Information A. Principal Investigator Contact Information Name: Phillip Bumpers Institution: University of Georgia Address: 140 E Green St. Athens GA, USA, 30602 Email: nathan.tomczyk25@uga.edu
+Author Information A. Principal Investigator Contact Information Name: Phillip Bumpers Institution: University of Georgia Address: 140 E Green St. Athens GA, USA, 30602 Email: bumpersp@uga.edu
 
 B. Associate or Co-investigator Contact Information Name: Amy Rosemond Institution: University of Georgia Address: 140 E Green St. Athens GA, USA, 30602 Email: rosemond@uga.edu
 
